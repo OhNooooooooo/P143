@@ -58,3 +58,9 @@ canvas{
     border: solid 5px grey;
     z-index: 0;
 }
+
+#status{
+    font-size: 10px;
+margin: 0px;
+text-align:center;
+}
